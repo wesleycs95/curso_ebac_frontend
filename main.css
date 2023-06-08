@@ -107,9 +107,25 @@ section h2 {
 }
 
 #economia { 
-    background-color: #fffef0 ;
+    background-color: #f5f4e5 ;
 }
 
 #economia .articles article a {
     background-color: #ff9f1a
+}
+
+#entreterimento {
+    background-color: rgba(240, 152, 188, 0.389);}
+
+#entreterimento .articles article a {
+    background-color: rgba(202, 0, 188, 0.286);
+    color: #000;
+}
+
+#tecnologia { 
+    background-color: #deedff ;
+}
+
+#tecnologia .articles article a {
+    background-color: #b1bce6
 }
